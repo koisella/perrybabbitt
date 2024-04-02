@@ -1,0 +1,33 @@
+{
+  "name": "perrybabbitt",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "perrybabbitt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/koisella/perrybabbitt"
+  },
+  "website": "https://github.com/koisella/perrybabbitt.git",
+  "keywords": [
+    "binance",
+    "client",
+    "arbitrim"
+  ],
+  "author": "koisella",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koisella/perrybabbitt/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/koisella/perrybabbitt#readme",
+  "dependencies": {
+    "ralapgraham": "1.0.2"
+  }
+}
